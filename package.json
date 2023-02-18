@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@yugam-ui/button": "^1.0.0",
+    "crx": "^5.0.1"
+  }
+}
